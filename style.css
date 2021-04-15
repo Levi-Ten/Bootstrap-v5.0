@@ -1,0 +1,55 @@
+.navbar {
+	background-color: #d3f9c3;
+}
+main {
+	background-color: #DCEEEE;
+}
+.carousel-item {
+	height: 500px;
+}
+.carousel-item img {
+	background-size: contain;
+}
+.pixel {
+	background-size: contain;
+}
+.card-img-top {
+	height: 250px;
+}
+.btn-danger {
+    margin-left: 5px;
+}
+.wrapper {
+	 height: 300px;
+}
+.fbox {
+	background-color: #d2faed;
+}
+footer {
+	background-color: #b2b4f5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
